@@ -49,7 +49,7 @@ body {
     height: 330px;
 }
 .principal .menu-esquerdo ul li {
-    box-shadow: inset 0 0 1em #8594e69d, 0 0 1em #4d63e09d;
+        : inset 0 0 1em #8594e69d, 0 0 1em #4d63e09d;
 }
 
 .principal .menu-esquerdo a {
